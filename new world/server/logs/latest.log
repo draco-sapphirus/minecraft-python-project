@@ -1,0 +1,15 @@
+[11:01:24] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[11:01:24] [Server thread/INFO]: Loading properties
+[11:01:24] [Server thread/INFO]: Default game type: CREATIVE
+[11:01:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-798f32d-0cd0397 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
+[11:01:25] [Server thread/INFO]: Debug logging is disabled
+[11:01:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:01:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:01:25] [Server thread/INFO]: Generating keypair
+[11:01:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:01:25] [Server thread/INFO]: Using default channel type
+[11:01:26] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[11:01:26] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[11:01:26] [Server thread/WARN]: Perhaps a server is already running on that port?
+[11:01:26] [Server thread/INFO]: Stopping server
+[11:01:26] [Server thread/INFO]: Saving players
