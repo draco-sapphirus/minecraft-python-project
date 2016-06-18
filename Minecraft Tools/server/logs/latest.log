@@ -1,531 +1,738 @@
-[11:59:39] [Server thread/INFO]: Starting minecraft server version 1.9.4
-[11:59:39] [Server thread/INFO]: Loading properties
-[11:59:39] [Server thread/INFO]: Default game type: CREATIVE
-[11:59:40] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-798f32d-0cd0397 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
-[11:59:40] [Server thread/INFO]: Debug logging is disabled
-[11:59:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:59:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:59:40] [Server thread/INFO]: Generating keypair
-[11:59:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:59:40] [Server thread/INFO]: Using default channel type
-[11:59:41] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[11:59:41] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v2.1
-[11:59:41] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.7
-[11:59:41] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[11:59:41] [Server thread/INFO]: Preparing level "world"
-[11:59:41] [Server thread/INFO]: -------- World Settings For [world] --------
-[11:59:41] [Server thread/INFO]: View Distance: 10
-[11:59:41] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:59:41] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:59:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:59:41] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:59:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:59:41] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:59:41] [Server thread/INFO]: Mob Spawn Range: 4
-[11:59:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:59:41] [Server thread/INFO]: Max TNT Explosions: 100
-[11:59:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:59:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:59:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[11:59:41] [Server thread/INFO]: Random Lighting Updates: false
-[11:59:41] [Server thread/INFO]: Structure Info Saving: true
-[11:59:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[11:59:41] [Server thread/INFO]: Max Entity Collisions: 8
-[11:59:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[11:59:41] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[11:59:41] [Server thread/INFO]: View Distance: 10
-[11:59:41] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:59:41] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:59:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:59:41] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:59:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:59:41] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:59:41] [Server thread/INFO]: Mob Spawn Range: 4
-[11:59:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:59:41] [Server thread/INFO]: Max TNT Explosions: 100
-[11:59:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:59:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:59:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[11:59:41] [Server thread/INFO]: Random Lighting Updates: false
-[11:59:41] [Server thread/INFO]: Structure Info Saving: true
-[11:59:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[11:59:41] [Server thread/INFO]: Max Entity Collisions: 8
-[11:59:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[11:59:41] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[11:59:41] [Server thread/INFO]: View Distance: 10
-[11:59:41] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:59:41] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:59:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:59:41] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:59:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:59:41] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:59:41] [Server thread/INFO]: Mob Spawn Range: 4
-[11:59:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:59:41] [Server thread/INFO]: Max TNT Explosions: 100
-[11:59:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:59:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:59:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:59:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[11:59:41] [Server thread/INFO]: Random Lighting Updates: false
-[11:59:41] [Server thread/INFO]: Structure Info Saving: true
-[11:59:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[11:59:41] [Server thread/INFO]: Max Entity Collisions: 8
-[11:59:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[11:59:41] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6001415816501591797)
-[11:59:43] [Server thread/INFO]: Preparing spawn area: 0%
-[11:59:44] [Server thread/INFO]: Preparing spawn area: 12%
-[11:59:45] [Server thread/INFO]: Preparing spawn area: 23%
-[11:59:46] [Server thread/INFO]: Preparing spawn area: 36%
-[11:59:47] [Server thread/INFO]: Preparing spawn area: 50%
-[11:59:48] [Server thread/INFO]: Preparing spawn area: 63%
-[11:59:49] [Server thread/INFO]: Preparing spawn area: 76%
-[11:59:50] [Server thread/INFO]: Preparing spawn area: 86%
-[11:59:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6001415816501591797)
-[11:59:52] [Server thread/INFO]: Preparing spawn area: 15%
-[11:59:53] [Server thread/INFO]: Preparing spawn area: 28%
-[11:59:54] [Server thread/INFO]: Preparing spawn area: 50%
-[11:59:55] [Server thread/INFO]: Preparing spawn area: 73%
-[11:59:56] [Server thread/INFO]: Preparing spawn area: 97%
-[11:59:56] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6001415816501591797)
-[11:59:56] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v2.1
-[11:59:56] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.7
-[11:59:56] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[11:59:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:59:57] [Server thread/INFO]: Done (15.967s)! For help, type "help" or "?"
-[12:00:24] [User Authenticator #1/INFO]: UUID of player Th3CoolGuy is d6f27331-1258-42cd-bb0d-51ba8f4accff
-[12:00:25] [Server thread/INFO]: Th3CoolGuy[/127.0.0.1:60070] logged in with entity id 297 at ([world]6.747056127050308, 70.98817153596816, 26.712261842823253)
-[12:01:09] [Server thread/INFO]: Th3CoolGuy lost connection: Disconnected
-[12:01:09] [Server thread/INFO]: Th3CoolGuy left the game.
-[12:01:13] [User Authenticator #2/INFO]: UUID of player Th3CoolGuy is d6f27331-1258-42cd-bb0d-51ba8f4accff
-[12:01:14] [Server thread/INFO]: Th3CoolGuy[/127.0.0.1:60126] logged in with entity id 453 at ([world]6.747056127050308, 70.98817153596816, 26.712261842823253)
-[12:07:58] [Server thread/INFO]: Th3CoolGuy issued server command: /tp 00
-[12:09:31] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
-[12:09:31] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
-[12:09:31] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60632.
-[12:09:31] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
-[12:09:31] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 3
-[12:09:31] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:153)
-[12:09:31] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
-[12:09:31] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
-[12:09:31] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
-[12:09:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71)
-[12:09:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[12:09:31] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734)
-[12:09:31] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399)
-[12:09:31] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665)
-[12:09:31] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564)
-[12:09:31] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:09:50] [Thread-9/WARN]: java.net.SocketException: Connection reset
-[12:09:50] [Thread-9/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:09:50] [Thread-9/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:09:50] [Thread-9/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:09:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60632.
-[12:09:51] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60655.
-[12:09:51] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
-[12:09:51] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
-[12:09:51] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
-[12:09:51] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 3
-[12:09:51] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:153)
-[12:09:51] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
-[12:09:51] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
-[12:09:51] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
-[12:09:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71)
-[12:09:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[12:09:51] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734)
-[12:09:51] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399)
-[12:09:51] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665)
-[12:09:51] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564)
-[12:09:51] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:10:35] [Thread-11/WARN]: java.net.SocketException: Connection reset
-[12:10:35] [Thread-11/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:10:35] [Thread-11/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:10:35] [Thread-11/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:10:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60655.
-[12:10:36] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60702.
-[12:10:36] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
-[12:10:36] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
-[12:10:45] [Thread-13/WARN]: java.net.SocketException: Connection reset
-[12:10:45] [Thread-13/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:10:45] [Thread-13/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:10:45] [Thread-13/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:10:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60702.
-[12:10:45] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60713.
-[12:10:45] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
-[12:10:45] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
-[12:12:14] [Thread-15/WARN]: java.net.SocketException: Connection reset
-[12:12:14] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:12:14] [Thread-15/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:12:14] [Thread-15/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:12:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60713.
-[12:12:15] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60804.
-[12:12:15] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
-[12:12:15] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
-[12:13:46] [Thread-17/WARN]: java.net.SocketException: Connection reset
-[12:13:46] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:13:46] [Thread-17/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:13:46] [Thread-17/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:13:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60804.
-[12:13:47] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60901.
-[12:13:47] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
-[12:13:47] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
-[12:13:59] [Thread-19/WARN]: java.net.SocketException: Connection reset
-[12:13:59] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:13:59] [Thread-19/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:13:59] [Thread-19/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:13:59] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60901.
-[12:14:00] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60916.
-[12:14:00] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
-[12:14:00] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
-[12:14:09] [Thread-21/WARN]: java.net.SocketException: Connection reset
-[12:14:09] [Thread-21/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:14:09] [Thread-21/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:14:09] [Thread-21/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:14:09] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60916.
-[12:14:10] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60928.
-[12:14:10] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
-[12:14:10] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
-[12:14:24] [Thread-23/WARN]: java.net.SocketException: Connection reset
-[12:14:24] [Thread-23/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:14:24] [Thread-23/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:14:24] [Thread-23/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:14:24] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60928.
-[12:14:25] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60945.
-[12:14:25] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
-[12:14:25] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
-[12:15:12] [Thread-25/WARN]: java.net.SocketException: Connection reset
-[12:15:12] [Thread-25/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:15:12] [Thread-25/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:15:12] [Thread-25/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:15:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60945.
-[12:15:12] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60996.
-[12:15:12] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
-[12:15:12] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
-[12:15:36] [Thread-27/WARN]: java.net.SocketException: Connection reset
-[12:15:36] [Thread-27/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:15:36] [Thread-27/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:15:36] [Thread-27/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:15:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60996.
-[12:15:36] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61022.
-[12:15:36] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
-[12:15:36] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
-[12:15:49] [Thread-29/WARN]: java.net.SocketException: Connection reset
-[12:15:49] [Thread-29/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:15:49] [Thread-29/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:15:49] [Thread-29/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:15:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61022.
-[12:15:50] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61037.
-[12:15:50] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
-[12:15:50] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
-[12:16:35] [Thread-31/WARN]: java.net.SocketException: Connection reset
-[12:16:35] [Thread-31/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:16:35] [Thread-31/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:16:35] [Thread-31/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:16:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61037.
-[12:16:36] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61085.
-[12:16:36] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
-[12:16:36] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
-[12:16:50] [Thread-33/WARN]: java.net.SocketException: Connection reset
-[12:16:50] [Thread-33/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:16:50] [Thread-33/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:16:50] [Thread-33/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61085.
-[12:16:50] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61101.
-[12:16:50] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
-[12:16:50] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
-[12:17:22] [Thread-35/WARN]: java.net.SocketException: Connection reset
-[12:17:22] [Thread-35/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:17:22] [Thread-35/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:17:22] [Thread-35/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:17:22] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61101.
-[12:17:23] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61135.
-[12:17:23] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
-[12:17:23] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
-[12:18:27] [Thread-37/WARN]: java.net.SocketException: Connection reset
-[12:18:27] [Thread-37/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:18:27] [Thread-37/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:18:27] [Thread-37/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:18:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61135.
-[12:18:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61202.
-[12:18:28] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
-[12:18:28] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
-[12:19:01] [Thread-39/WARN]: java.net.SocketException: Connection reset
-[12:19:01] [Thread-39/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:19:01] [Thread-39/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:19:01] [Thread-39/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:19:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61202.
-[12:19:01] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61237.
-[12:19:01] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
-[12:19:01] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
-[12:19:32] [Thread-41/WARN]: java.net.SocketException: Connection reset
-[12:19:32] [Thread-41/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:19:32] [Thread-41/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:19:32] [Thread-41/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:19:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61237.
-[12:19:33] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61271.
-[12:19:33] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
-[12:19:33] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
-[12:20:18] [Thread-43/WARN]: java.net.SocketException: Connection reset
-[12:20:18] [Thread-43/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:20:18] [Thread-43/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:20:18] [Thread-43/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:20:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61271.
-[12:20:19] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61320.
-[12:20:19] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
-[12:20:19] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
-[12:20:19] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
-[12:20:19] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
-[12:20:19] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:159)
-[12:20:19] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
-[12:20:19] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
-[12:20:19] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
-[12:20:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71)
-[12:20:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[12:20:19] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734)
-[12:20:19] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399)
-[12:20:19] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665)
-[12:20:19] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564)
-[12:20:19] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:20:25] [Thread-45/WARN]: java.net.SocketException: Connection reset
-[12:20:25] [Thread-45/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:20:25] [Thread-45/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:20:25] [Thread-45/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:20:25] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61320.
-[12:20:26] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61329.
-[12:20:26] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
-[12:20:26] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
-[12:20:26] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
-[12:20:26] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
-[12:20:26] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:159)
-[12:20:26] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
-[12:20:26] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
-[12:20:26] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
-[12:20:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71)
-[12:20:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[12:20:26] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734)
-[12:20:26] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399)
-[12:20:26] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665)
-[12:20:26] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564)
-[12:20:26] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:29:06] [Thread-47/WARN]: java.net.SocketException: Connection reset
-[12:29:06] [Thread-47/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:29:06] [Thread-47/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:29:06] [Thread-47/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:29:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61329.
-[12:29:06] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62379.
-[12:29:06] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
-[12:29:06] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
-[12:29:23] [Thread-49/WARN]: java.net.SocketException: Connection reset
-[12:29:23] [Thread-49/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:29:23] [Thread-49/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:29:23] [Thread-49/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:29:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62379.
-[12:29:24] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62423.
-[12:29:24] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
-[12:29:24] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
-[12:29:56] [Thread-51/WARN]: java.net.SocketException: Connection reset
-[12:29:56] [Thread-51/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
-[12:29:56] [Thread-51/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
-[12:29:56] [Thread-51/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:29:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62423.
-[12:29:57] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62460.
-[12:29:57] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
-[12:29:57] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[18:47:07] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[18:47:07] [Server thread/INFO]: Loading properties
+[18:47:07] [Server thread/INFO]: Default game type: CREATIVE
+[18:47:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-798f32d-0cd0397 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
+[18:47:08] [Server thread/INFO]: Debug logging is disabled
+[18:47:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:47:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:47:08] [Server thread/INFO]: Generating keypair
+[18:47:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:47:08] [Server thread/INFO]: Using default channel type
+[18:47:08] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:47:08] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v2.1
+[18:47:08] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.7
+[18:47:08] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:47:08] [Server thread/INFO]: Preparing level "world"
+[18:47:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:47:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:47:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:47:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:47:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:47:08] [Server thread/INFO]: View Distance: 10
+[18:47:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:47:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:47:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:47:08] [Server thread/INFO]: Max Entity Collisions: 8
+[18:47:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:47:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:47:08] [Server thread/INFO]: Mob Spawn Range: 4
+[18:47:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:47:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:47:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:47:08] [Server thread/INFO]: Structure Info Saving: true
+[18:47:08] [Server thread/INFO]: Max TNT Explosions: 100
+[18:47:08] [Server thread/INFO]: Random Lighting Updates: false
+[18:47:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:47:09] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:47:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:47:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:47:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:47:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:47:09] [Server thread/INFO]: View Distance: 10
+[18:47:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:47:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:47:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:47:09] [Server thread/INFO]: Max Entity Collisions: 8
+[18:47:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:47:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:47:09] [Server thread/INFO]: Mob Spawn Range: 4
+[18:47:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:47:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:47:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Structure Info Saving: true
+[18:47:09] [Server thread/INFO]: Max TNT Explosions: 100
+[18:47:09] [Server thread/INFO]: Random Lighting Updates: false
+[18:47:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:47:09] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:47:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:47:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:47:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:47:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:47:09] [Server thread/INFO]: View Distance: 10
+[18:47:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:47:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:47:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:47:09] [Server thread/INFO]: Max Entity Collisions: 8
+[18:47:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:47:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:47:09] [Server thread/INFO]: Mob Spawn Range: 4
+[18:47:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:47:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:47:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:47:09] [Server thread/INFO]: Structure Info Saving: true
+[18:47:09] [Server thread/INFO]: Max TNT Explosions: 100
+[18:47:09] [Server thread/INFO]: Random Lighting Updates: false
+[18:47:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:47:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6001415816501591797)
+[18:47:10] [Server thread/INFO]: Preparing spawn area: 1%
+[18:47:11] [Server thread/INFO]: Preparing spawn area: 24%
+[18:47:12] [Server thread/INFO]: Preparing spawn area: 40%
+[18:47:13] [Server thread/INFO]: Preparing spawn area: 55%
+[18:47:14] [Server thread/INFO]: Preparing spawn area: 78%
+[18:47:15] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6001415816501591797)
+[18:47:16] [Server thread/INFO]: Preparing spawn area: 16%
+[18:47:17] [Server thread/INFO]: Preparing spawn area: 43%
+[18:47:18] [Server thread/INFO]: Preparing spawn area: 64%
+[18:47:19] [Server thread/INFO]: Preparing spawn area: 92%
+[18:47:19] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6001415816501591797)
+[18:47:20] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v2.1
+[18:47:20] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.7
+[18:47:20] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[18:47:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:47:20] [Server thread/INFO]: Done (11.919s)! For help, type "help" or "?"
+[18:47:26] [User Authenticator #1/INFO]: UUID of player Th3CoolGuy is d6f27331-1258-42cd-bb0d-51ba8f4accff
+[18:47:27] [Server thread/INFO]: Th3CoolGuy[/127.0.0.1:59916] logged in with entity id 9889 at ([world]57.46817562889839, 76.87605960944977, 360.8935570663327)
+[18:47:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59919.
+[18:47:28] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[18:47:28] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[18:47:28] [Server thread/INFO]: This is the defualt message[m
+[18:47:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59919.
+[18:47:48] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59945.
+[18:47:48] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[18:47:48] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[18:47:48] [Server thread/INFO]: This is the defualt message[m
+[18:47:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59945.
+[18:47:51] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59958.
+[18:47:51] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[18:47:51] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[18:47:51] [Server thread/INFO]: This is the defualt message[m
+[18:47:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59958.
+[18:50:09] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60026.
+[18:50:09] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[18:50:09] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[18:51:09] [Thread-15/WARN]: java.net.SocketException: Connection reset
+[18:51:09] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:51:09] [Thread-15/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:51:09] [Thread-15/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:51:09] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60026.
+[18:51:10] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60124.
+[18:51:10] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[18:51:10] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[18:51:27] [Thread-17/WARN]: java.net.SocketException: Connection reset
+[18:51:27] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:51:27] [Thread-17/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:51:27] [Thread-17/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:51:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60124.
+[18:51:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60126.
+[18:51:28] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[18:51:28] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[18:51:43] [Thread-19/WARN]: java.net.SocketException: Connection reset
+[18:51:43] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:51:43] [Thread-19/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:51:43] [Thread-19/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:51:44] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60126.
+[18:51:44] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60128.
+[18:51:44] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[18:51:44] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[18:52:33] [Thread-21/WARN]: java.net.SocketException: Connection reset
+[18:52:33] [Thread-21/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:52:33] [Thread-21/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:52:33] [Thread-21/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:52:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60128.
+[18:52:33] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60130.
+[18:52:33] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[18:52:33] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[18:52:33] [Server thread/INFO]: Hi[m
+[18:55:28] [Thread-23/WARN]: java.net.SocketException: Connection reset
+[18:55:28] [Thread-23/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:55:28] [Thread-23/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:55:28] [Thread-23/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:55:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60130.
+[18:55:29] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60134.
+[18:55:29] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[18:55:29] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[18:55:29] [Server thread/INFO]: Hello User[m
+[18:56:59] [Thread-25/WARN]: java.net.SocketException: Connection reset
+[18:56:59] [Thread-25/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:56:59] [Thread-25/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:56:59] [Thread-25/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:56:59] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60134.
+[18:57:00] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60136.
+[18:57:00] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[18:57:00] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[18:57:00] [Server thread/INFO]: Hello User[m
+[18:58:02] [Thread-27/WARN]: java.net.SocketException: Connection reset
+[18:58:02] [Thread-27/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:58:02] [Thread-27/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:58:02] [Thread-27/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:58:03] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60136.
+[18:58:03] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60139.
+[18:58:03] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[18:58:03] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[18:58:03] [Server thread/INFO]: Hello User[m
+[18:58:45] [Thread-29/WARN]: java.net.SocketException: Connection reset
+[18:58:45] [Thread-29/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:58:45] [Thread-29/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:58:45] [Thread-29/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:58:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60139.
+[18:58:46] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60141.
+[18:58:46] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[18:58:46] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[18:58:46] [Server thread/INFO]: Hello User[m
+[18:59:04] [Thread-31/WARN]: java.net.SocketException: Connection reset
+[18:59:04] [Thread-31/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:59:04] [Thread-31/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:59:04] [Thread-31/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:59:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60141.
+[18:59:05] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60143.
+[18:59:05] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
+[18:59:05] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
+[18:59:05] [Server thread/INFO]: Hello User[m
+[18:59:16] [Thread-33/WARN]: java.net.SocketException: Connection reset
+[18:59:16] [Thread-33/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:59:16] [Thread-33/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:59:16] [Thread-33/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:59:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60143.
+[18:59:16] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60145.
+[18:59:16] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[18:59:16] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[18:59:16] [Server thread/INFO]: Hello User[m
+[18:59:50] [Thread-35/WARN]: java.net.SocketException: Connection reset
+[18:59:50] [Thread-35/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:59:50] [Thread-35/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:59:50] [Thread-35/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:59:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60145.
+[18:59:51] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60147.
+[18:59:51] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[18:59:51] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[18:59:51] [Server thread/INFO]: Hello User[m
+[19:00:36] [Thread-37/WARN]: java.net.SocketException: Connection reset
+[19:00:36] [Thread-37/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:00:36] [Thread-37/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:00:36] [Thread-37/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:00:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60147.
+[19:00:37] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60149.
+[19:00:37] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[19:00:37] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[19:00:56] [Thread-39/WARN]: java.net.SocketException: Connection reset
+[19:00:56] [Thread-39/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:00:56] [Thread-39/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:00:56] [Thread-39/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:00:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60149.
+[19:00:57] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60153.
+[19:00:57] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
+[19:00:57] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
+[19:03:08] [Thread-41/WARN]: java.net.SocketException: Connection reset
+[19:03:08] [Thread-41/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:03:08] [Thread-41/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:03:08] [Thread-41/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:03:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60153.
+[19:03:09] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60173.
+[19:03:09] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[19:03:09] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[19:03:09] [Server thread/INFO]: Hello User[m
+[19:03:36] [Thread-43/WARN]: java.net.SocketException: Connection reset
+[19:03:36] [Thread-43/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:03:36] [Thread-43/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:03:36] [Thread-43/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:03:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60173.
+[19:03:37] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60179.
+[19:03:37] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[19:03:37] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[19:03:37] [Server thread/INFO]: Hello User[m
+[19:03:37] [Server thread/INFO]: I know who you are[m
+[19:04:06] [Thread-45/WARN]: java.net.SocketException: Connection reset
+[19:04:06] [Thread-45/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:04:06] [Thread-45/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:04:06] [Thread-45/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:04:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60179.
+[19:04:07] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60181.
+[19:04:07] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[19:04:07] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[19:04:07] [Server thread/INFO]: Hello User[m
+[19:04:09] [Server thread/INFO]: I know who you are[m
+[19:05:22] [Thread-47/WARN]: java.net.SocketException: Connection reset
+[19:05:22] [Thread-47/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:05:22] [Thread-47/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:05:22] [Thread-47/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:05:22] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60181.
+[19:05:22] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60183.
+[19:05:22] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[19:05:22] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[19:05:22] [Server thread/INFO]: Hello User[m
+[19:05:25] [Server thread/INFO]: I know who you are[m
+[19:06:06] [Thread-49/WARN]: java.net.SocketException: Connection reset
+[19:06:06] [Thread-49/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:06:06] [Thread-49/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:06:06] [Thread-49/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:06:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60183.
+[19:06:07] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60185.
+[19:06:07] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
+[19:06:07] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
+[19:06:07] [Server thread/INFO]: Hello User[m
+[19:06:10] [Server thread/INFO]: I know who you are[m
+[19:06:38] [Thread-51/WARN]: java.net.SocketException: Connection reset
+[19:06:38] [Thread-51/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:06:38] [Thread-51/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:06:38] [Thread-51/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:06:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60185.
+[19:06:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60187.
+[19:06:39] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
+[19:06:39] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[19:06:39] [Server thread/INFO]: Hello User[m
+[19:06:42] [Server thread/INFO]: I know who you are[m
+[19:06:45] [Server thread/INFO]: I know were you live[m
+[19:08:20] [Thread-53/WARN]: java.net.SocketException: Connection reset
+[19:08:20] [Thread-53/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:08:20] [Thread-53/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:08:20] [Thread-53/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:08:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60187.
+[19:08:21] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60191.
+[19:08:21] [Thread-55/INFO]: [RaspberryJuice] Starting input thread
+[19:08:21] [Thread-56/INFO]: [RaspberryJuice] Starting output thread!
+[19:08:21] [Server thread/INFO]: Hello User[m
+[19:08:24] [Server thread/INFO]: I know who you are[m
+[19:08:27] [Server thread/INFO]: I know were you live[m
+[19:20:05] [Thread-55/WARN]: java.net.SocketException: Connection reset
+[19:20:05] [Thread-55/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:20:05] [Thread-55/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:20:05] [Thread-55/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:20:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60191.
+[19:20:05] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60203.
+[19:20:05] [Thread-57/INFO]: [RaspberryJuice] Starting input thread
+[19:20:05] [Thread-58/INFO]: [RaspberryJuice] Starting output thread!
+[19:20:23] [Thread-57/WARN]: java.net.SocketException: Connection reset
+[19:20:23] [Thread-57/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:20:23] [Thread-57/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:20:23] [Thread-57/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:20:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60203.
+[19:20:24] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60205.
+[19:20:24] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[19:20:24] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[19:22:50] [Thread-59/WARN]: java.net.SocketException: Connection reset
+[19:22:50] [Thread-59/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:22:50] [Thread-59/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:22:50] [Thread-59/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:22:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60205.
+[19:22:51] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60208.
+[19:22:51] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[19:22:51] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[19:23:48] [Thread-61/WARN]: java.net.SocketException: Connection reset
+[19:23:48] [Thread-61/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:23:48] [Thread-61/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:23:48] [Thread-61/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:23:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60208.
+[19:23:49] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60212.
+[19:23:49] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[19:23:49] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[19:24:25] [Thread-63/WARN]: java.net.SocketException: Connection reset
+[19:24:25] [Thread-63/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:24:25] [Thread-63/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:24:25] [Thread-63/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:24:25] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60212.
+[19:24:25] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60214.
+[19:24:25] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[19:24:25] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[19:25:12] [Thread-65/WARN]: java.net.SocketException: Connection reset
+[19:25:12] [Thread-65/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:25:12] [Thread-65/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:25:12] [Thread-65/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:25:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60214.
+[19:25:13] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60216.
+[19:25:13] [Thread-67/INFO]: [RaspberryJuice] Starting input thread
+[19:25:13] [Thread-68/INFO]: [RaspberryJuice] Starting output thread!
+[19:27:27] [Thread-67/WARN]: java.net.SocketException: Connection reset
+[19:27:27] [Thread-67/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:27:27] [Thread-67/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:27:27] [Thread-67/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:27:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60216.
+[19:27:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60219.
+[19:27:28] [Thread-69/INFO]: [RaspberryJuice] Starting input thread
+[19:27:28] [Thread-70/INFO]: [RaspberryJuice] Starting output thread!
+[19:30:21] [Thread-69/WARN]: java.net.SocketException: Connection reset
+[19:30:21] [Thread-69/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:30:21] [Thread-69/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:30:21] [Thread-69/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:30:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60219.
+[19:30:22] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60222.
+[19:30:22] [Thread-72/INFO]: [RaspberryJuice] Starting output thread!
+[19:30:22] [Thread-71/INFO]: [RaspberryJuice] Starting input thread
+[19:31:08] [Thread-71/WARN]: java.net.SocketException: Connection reset
+[19:31:08] [Thread-71/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:31:08] [Thread-71/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:31:08] [Thread-71/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:31:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60222.
+[19:31:09] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60224.
+[19:31:09] [Thread-73/INFO]: [RaspberryJuice] Starting input thread
+[19:31:09] [Thread-74/INFO]: [RaspberryJuice] Starting output thread!
+[19:33:04] [Thread-73/WARN]: java.net.SocketException: Connection reset
+[19:33:04] [Thread-73/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:33:04] [Thread-73/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:33:04] [Thread-73/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:33:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60224.
+[19:33:05] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60232.
+[19:33:05] [Thread-75/INFO]: [RaspberryJuice] Starting input thread
+[19:33:05] [Thread-76/INFO]: [RaspberryJuice] Starting output thread!
+[19:35:06] [Thread-75/WARN]: java.net.SocketException: Connection reset
+[19:35:06] [Thread-75/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:35:06] [Thread-75/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:35:06] [Thread-75/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:35:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60232.
+[19:35:07] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60235.
+[19:35:07] [Thread-77/INFO]: [RaspberryJuice] Starting input thread
+[19:35:07] [Thread-78/INFO]: [RaspberryJuice] Starting output thread!
+[19:39:12] [Thread-77/WARN]: java.net.SocketException: Connection reset
+[19:39:12] [Thread-77/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:39:12] [Thread-77/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:39:12] [Thread-77/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:39:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60235.
+[19:39:12] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60240.
+[19:39:12] [Thread-79/INFO]: [RaspberryJuice] Starting input thread
+[19:39:12] [Thread-80/INFO]: [RaspberryJuice] Starting output thread!
+[19:39:27] [Thread-79/WARN]: java.net.SocketException: Connection reset
+[19:39:27] [Thread-79/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:39:27] [Thread-79/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:39:27] [Thread-79/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:39:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60240.
+[19:39:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60244.
+[19:39:28] [Thread-81/INFO]: [RaspberryJuice] Starting input thread
+[19:39:28] [Thread-82/INFO]: [RaspberryJuice] Starting output thread!
+[19:39:28] [Server thread/INFO]: Bob:,Hello bob1[m
+[19:39:31] [Server thread/INFO]: I know who you are[m
+[19:39:34] [Server thread/INFO]: I know were you live[m
+[19:41:21] [Thread-81/WARN]: java.net.SocketException: Connection reset
+[19:41:21] [Thread-81/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:41:21] [Thread-81/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:41:21] [Thread-81/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:41:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60244.
+[19:41:21] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60652.
+[19:41:21] [Thread-83/INFO]: [RaspberryJuice] Starting input thread
+[19:41:21] [Thread-84/INFO]: [RaspberryJuice] Starting output thread!
+[19:41:21] [Server thread/INFO]: Bob:Hello bob1[m
+[19:41:24] [Server thread/INFO]: I know who you are[m
+[19:41:28] [Server thread/INFO]: I know were you live[m
+[19:50:49] [Thread-83/WARN]: java.net.SocketException: Connection reset
+[19:50:49] [Thread-83/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:50:49] [Thread-83/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:50:49] [Thread-83/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:50:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60652.
+[19:50:50] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61507.
+[19:50:50] [Thread-85/INFO]: [RaspberryJuice] Starting input thread
+[19:50:50] [Thread-86/INFO]: [RaspberryJuice] Starting output thread!
+[19:50:50] [Server thread/INFO]: Bob:Hello bob1[m
+[19:50:53] [Server thread/INFO]: I know who you are[m
+[19:50:56] [Server thread/INFO]: I know were you live[m
+[19:51:28] [Thread-85/WARN]: java.net.SocketException: Connection reset
+[19:51:28] [Thread-85/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[19:51:28] [Thread-85/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[19:51:28] [Thread-85/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:51:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61507.
